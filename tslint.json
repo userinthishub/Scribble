@@ -1,0 +1,10 @@
+{
+  "extends": ["tslint:recommended", "tslint-config-airbnb-base", "tslint-config-prettier"],
+  "rules": {
+    "align": false,
+    "no-magic-numbers": false,
+    "arrow-parens": false,
+    "interface-name": false,
+    "no-empty": false
+  }
+}
